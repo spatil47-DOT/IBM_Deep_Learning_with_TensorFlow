@@ -1,1 +1,7 @@
-# IBM_Deep_Learning_with_TensorFlow
+# Deep Learning with TensorFlow by IBM
+
+https://cognitiveclass.ai/courses/deep-learning-tensorflow
+
+
+
+
